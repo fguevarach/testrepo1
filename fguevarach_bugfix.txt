@@ -1,0 +1,1 @@
+Here is the fix for the bug001 ;)
